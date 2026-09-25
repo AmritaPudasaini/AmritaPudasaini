@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Amrita Pudasaini 👋</h1>
-<h3 align="center">Python developer exploring Machine Learning & Data Science</h3>
+<h3 align="center">AI/ML & Robotics Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AmritaPudasaini&label=Profile%20views&color=0e75b6&style=flat" alt="AmritaPudasaini" />
