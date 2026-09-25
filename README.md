@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Amrita Pudasaini 👋</h1>
-<h3 align="center">AI/ML & Robotics Enthusiast</h3>
+<h3 align="center">Python developer exploring Machine Learning & Data Science</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AmritaPudasaini&label=Profile%20views&color=0e75b6&style=flat" alt="AmritaPudasaini" />
@@ -41,4 +41,9 @@
 <h3 align="left">Top Languages:</h3>
 <p align="left">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AmritaPudasaini&layout=compact&theme=radical" alt="AmritaPudasaini" />
+</p>
+
+<h3 align="left">GitHub Summary:</h3>
+<p align="left">
+  <img src="./profile-summary-cards-output/github_dark/0-profile-details.svg" alt="AmritaPudasaini" />
 </p>
