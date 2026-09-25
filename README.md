@@ -15,6 +15,7 @@
 <a href="https://www.linkedin.com/in/amrita-pudasaini-696700259/" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="32" height="32" />
 </a>
+&nbsp;&nbsp;
 <a href="https://www.amritapudasaini.com.np" target="_blank">
   <img src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" width="32" height="32" />
 </a>
@@ -31,7 +32,7 @@
 
 <h3 align="left">GitHub Stats:</h3>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=AmritaPudasaini&show_icons=true&theme=radical" alt="AmritaPudasaini" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AmritaPudasaini&show_icons=true&theme=radical" alt="AmritaPudasaini" />
 </p>
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmritaPudasaini&theme=radical" alt="AmritaPudasaini" />
@@ -39,5 +40,5 @@
 
 <h3 align="left">Top Languages:</h3>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AmritaPudasaini&layout=compact&theme=radical" alt="AmritaPudasaini" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AmritaPudasaini&layout=compact&theme=radical" alt="AmritaPudasaini" />
 </p>
